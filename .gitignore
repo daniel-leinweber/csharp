@@ -351,3 +351,4 @@ MigrationBackup/
 
 # VSCode
 .vscode
+.DS_Store
